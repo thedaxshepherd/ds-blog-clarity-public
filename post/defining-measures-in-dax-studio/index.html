@@ -4,10 +4,12 @@
   lang="en"
   data-figures=""
   
+    class="page"
+  
   
   >
   <head>
-<title>hello | The DAX Shepherd</title>
+<title>Defining Measures in DAX Studio | The DAX Shepherd</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,22 +26,21 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="" />
+<meta name="description" content="Some common issues that I run into when defining measures in DAX Studio." />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@SQL_JAR">
-<meta name="twitter:title" content="hello" />
+<meta name="twitter:title" content="Defining Measures in DAX Studio" />
 <meta name="twitter:image" content="https://thedaxshepherd.github.io/ds-blog-public/images/thumbnail.png"/>
-<meta property="og:url" content="https://thedaxshepherd.github.io/ds-blog-public/tags/hello/" />
-<meta property="og:title" content="hello" />
-<meta property="og:description" content="" />
+<meta property="og:url" content="https://thedaxshepherd.github.io/ds-blog-public/post/defining-measures-in-dax-studio/" />
+<meta property="og:title" content="Defining Measures in DAX Studio" />
+<meta property="og:description" content="Some common issues that I run into when defining measures in DAX Studio." />
 <meta property="og:image" content="https://thedaxshepherd.github.io/ds-blog-public/images/thumbnail.png" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://thedaxshepherd.github.io/ds-blog-public/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://thedaxshepherd.github.io/ds-blog-public/icons/favicon-32x32.png">
 <link rel="manifest" href="https://thedaxshepherd.github.io/ds-blog-public/icons/site.webmanifest">
 
-<link rel="canonical" href="https://thedaxshepherd.github.io/ds-blog-public/tags/hello/">
-<link rel="alternate" type="application/rss+xml" href="https://thedaxshepherd.github.io/ds-blog-public/tags/hello/index.xml" title="The DAX Shepherd" />
+<link rel="canonical" href="https://thedaxshepherd.github.io/ds-blog-public/post/defining-measures-in-dax-studio/">
 
 
 
@@ -138,19 +139,10 @@
 </header>
 
     <main>
-
-
-
+  
 <div class="grid-inverse wrap content">
-  <div>
-    <ul class="posts" id="posts">
-        <li class="post_item">
-  <div class="excerpt">
-    <div class="excerpt_header">
-      <h3 class="post_link">
-        <a href="https://thedaxshepherd.github.io/ds-blog-public/post/welcome/" title="Welcome">Welcome</a>
-      </h3>
-      
+  <article class="post_content">
+    <h1 class="post_title">Defining Measures in DAX Studio</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <title>calendar</title>
@@ -158,23 +150,22 @@
 </svg>
 </span>
     <span class="post_date">
-      Jan 1, 0001</span>
-    <span class="post_time"> · 1 min read</span><span>&nbsp;· <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/facebook/' title="facebook" class="post_tag button button_translucent">facebook
-        </a><a href='https://thedaxshepherd.github.io/ds-blog-public/tags/hello/' title="hello" class="post_tag button button_translucent">hello
-        </a><a href='https://thedaxshepherd.github.io/ds-blog-public/tags/docusaurus/' title="docusaurus" class="post_tag button button_translucent">docusaurus
+      Sep 30, 2022</span>
+    <span class="post_time"> · 3 min read</span><span>&nbsp;· <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/dax/' title="dax" class="post_tag button button_translucent">dax
+        </a><a href='https://thedaxshepherd.github.io/ds-blog-public/tags/daxstudio/' title="daxstudio" class="post_tag button button_translucent">daxstudio
         </a>
     </span>
     <span class="page_only">&nbsp;·
   <div class="post_share">
     Share on:
-    <a href="https://twitter.com/intent/tweet?text=Welcome&url=https%3a%2f%2fthedaxshepherd.github.io%2fds-blog-public%2fpost%2fwelcome%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/intent/tweet?text=Defining%20Measures%20in%20DAX%20Studio&url=https%3a%2f%2fthedaxshepherd.github.io%2fds-blog-public%2fpost%2fdefining-measures-in-dax-studio%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>twitter</title>
   <use xlink:href="#twitter"></use>
 </svg>
 
     </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fthedaxshepherd.github.io%2fds-blog-public%2fpost%2fwelcome%2f&t=Welcome" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fthedaxshepherd.github.io%2fds-blog-public%2fpost%2fdefining-measures-in-dax-studio%2f&t=Defining%20Measures%20in%20DAX%20Studio" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>facebook</title>
   <use xlink:href="#facebook"></use>
@@ -188,7 +179,7 @@
 </svg>
 
     </a>
-    <a href="https://thedaxshepherd.github.io/ds-blog-public/post/welcome/" title="Copy Link" class="link link_yank">
+    <a href="https://thedaxshepherd.github.io/ds-blog-public/post/defining-measures-in-dax-studio/" title="Copy Link" class="link link_yank">
       <svg class="icon">
   <title>copy</title>
   <use xlink:href="#copy"></use>
@@ -199,137 +190,66 @@
   </span>
   </div>
 
-    </div>
-      <div class="excerpt_footer">
-        <div class="pale">
-          
-            <p>Docusaurus blogging features are powered by the blog plugin.
-Simply add Markdown files (or folders) to the blog directory.
-Regular blog authors can be added to authors.yml.
-The blog post date can be extracted from filenames, such as:
-2019-05-30-welcome.md 2019-05-30-welcome/index.md A blog post folder can be convenient …</p>
-          
-          <br>
-          <a href="https://thedaxshepherd.github.io/ds-blog-public/post/welcome/" title="Read More" class="excerpt_more button">Read More</a>
-        </div>
-      </div>
-    </div>
-  </li>
+    <div class="post_body"><p>After a period of not defining measures in DAX Studio, I seem to make the same two mistakes.</p>
+<p>The first error occurs when I try to run the following code to define a measure in a query:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">DEFINE MEASURE [UnitPrice] = SUM(&#39;Sales&#39;[Unit Price])
+</span></span><span class="line"><span class="ln">2</span><span class="cl">	EVALUATE
+</span></span><span class="line"><span class="ln">3</span><span class="cl">		CALCULATE([UnitPrice])
+</span></span></code></pre></div><p>This generates the following error: 
+The syntax for '=' is incorrect.</p>
+<p>The issue lies in not including the table name before the measure name. This esentially indicates where the measure &quot;lives&quot; in the model and is needed for the full definition of the measure.</p>
+<p>So I am going to use the Sales table for the home of the measure. This does not impact how the measure works. I could have just as well chosen the Product table and the result would be the same. But if this were Power BI or Analysis Services where you place the measures is more about organization and making the user experience more intuitive.</p>
+<p>Here I have added the Sales table to the name of the measure.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">DEFINE MEASURE &#39;Sales&#39;[UnitPrice] = SUM(&#39;Sales&#39;[Unit Price])
+</span></span></code></pre></div><p>More info on defining a measure can be found here: <a href="https://dax.guide/st/measure/">https://dax.guide/st/measure/</a></p>
+<p>But running the full version of the code still generates an error:
+Query (1, 1) The expression specified in the query is not a valid table expression.</p>
+<p>Especially when you are learning to use DAX Studio you may run into this error a lot. What it is telling us is that the code we are running is not returning a table expression. We know that when we query using DAX we usually either return a scalar or a table value. If you are not sure what functions return which you can use a site like <a href="https://dax.guide/">https://dax.guide/</a> and it will show the input as well as the return type. Calculate returns a scalar whereas CalculateTable returns a Table.</p>
+<p>One trick to turn this Scalar into a table is to use the ROW function. It takes the name of the new column and the expression for the column and returns a table with one or more columns:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">DEFINE MEASURE &#39;Sales&#39;[UnitPrice] = SUM(&#39;Sales&#39;[Unit Price])
+</span></span><span class="line"><span class="ln">2</span><span class="cl">EVALUATE
+</span></span><span class="line"><span class="ln">3</span><span class="cl">ROW(&#34;Unit Price&#34;, CALCULATE([UnitPrice]))
+</span></span></code></pre></div><p>This runs successfully</p>
+<figure><img src="images/DAX_Studio_Result.png"
+         alt="Result" width="150"/><figcaption>
+            <h4>Result</h4>
+        </figcaption>
+</figure>
 
-      <li>
-      </li>
-    </ul>
-  </div>
-<aside class="sidebar">
-  <section class="sidebar_inner">
-    <br>
-    
+<p>With the ROW function we can give the column a name. We can also repeat this for as many columns as we need.</p>
+<p>Another option is we can use the table constructor syntax to create a table.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">{
+</span></span><span class="line"><span class="ln">2</span><span class="cl">  (CALCULATE([UnitPrice]))
+</span></span><span class="line"><span class="ln">3</span><span class="cl">}
+</span></span></code></pre></div><p>But this does not allow us to name the column. But we can add multiple rows to each column if we want.</p>
+<p>These two issues are ones that I encountered a lot when starting to use DAX Studio. Mostly due to the time period between when I would be using DAX Studio.</p>
 
-        <div class="author_header">
-          <img src="https://thedaxshepherd.github.io/ds-blog-public/images/sheep.png" alt="Jason Romans photo">
-          <h2>Jason Romans</h2>
-        </div>
-      <div class="author_bio">
-        Musings on the Microsoft BI Stack
-      </div>
-      <a href='https://thedaxshepherd.github.io/ds-blog-public/about/' class="button mt-1" role="button" title='Read More'>Read More</a>
-
-    
-    
-    <h2 class="mt-4">Featured Posts</h2>
-    <ul>
-      <li>
-        <a href="https://thedaxshepherd.github.io/ds-blog-public/post/website-hugo-blog-git/" class="nav-link" title="Using Hugo and GitHub Pages for my blog">Using Hugo and GitHub Pages for my blog</a>
-      </li>
-    </ul>
-    <h2 class="mt-4">Recent Posts</h2>
-    <ul class="flex-column">
-      <li>
-        <a href="https://thedaxshepherd.github.io/ds-blog-public/post/defining-measures-in-dax-studio/" class="nav-link" title="Defining Measures in DAX Studio">Defining Measures in DAX Studio</a>
-      </li>
-      <li>
-        <a href="https://thedaxshepherd.github.io/ds-blog-public/post/dbeaver-tool/" class="nav-link" title="DBeaver Tool">DBeaver Tool</a>
-      </li>
-      <li>
-        <a href="https://thedaxshepherd.github.io/ds-blog-public/post/setting-up-hugo-blog-git-githubpages/" class="nav-link" title="Setting up the blog">Setting up the blog</a>
-      </li>
-      <li>
-        <a href="https://thedaxshepherd.github.io/ds-blog-public/post/welcome/" class="nav-link" title="Welcome">Welcome</a>
-      </li>
-    </ul>
-    <div>
-      <h2 class="mt-4 taxonomy" id="categories-section">Categories</h2>
-      <nav class="tags_nav">
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/categories/website/' class="post_tag button button_translucent" title="website">
-          WEBSITE
-          <span class="button_tally">2</span>
-        </a>
-        
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/categories/new/' class="post_tag button button_translucent" title="new">
-          NEW
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/categories/tools/' class="post_tag button button_translucent" title="tools">
-          TOOLS
-          <span class="button_tally">1</span>
-        </a>
-        
-        
-      </nav>
     </div>
-    <div>
-      <h2 class="mt-4 taxonomy" id="tags-section">Tags</h2>
-      <nav class="tags_nav">
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/git/' class="post_tag button button_translucent" title="git">
-          GIT
-          <span class="button_tally">2</span>
-        </a>
-        
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/hugo/' class="post_tag button button_translucent" title="hugo">
-          HUGO
-          <span class="button_tally">2</span>
-        </a>
-        
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/dax/' class="post_tag button button_translucent" title="dax">
-          DAX
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/daxstudio/' class="post_tag button button_translucent" title="daxstudio">
-          DAXSTUDIO
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/docusaurus/' class="post_tag button button_translucent" title="docusaurus">
-          DOCUSAURUS
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/facebook/' class="post_tag button button_translucent" title="facebook">
-          FACEBOOK
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/hello/' class="post_tag button button_translucent" title="hello">
-          HELLO
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://thedaxshepherd.github.io/ds-blog-public/tags/new/' class="post_tag button button_translucent" title="new">
-          NEW
-          <span class="button_tally">1</span>
-        </a>
-        
-        
-      </nav>
-    </div>
-  </section>
-</aside>
 
+<section class="comments">
+<script src="https://giscus.app/client.js"
+        data-repo="thedaxshepherd/ds-blog-comments"
+        data-repo-id="R_kgDOIGk8Vg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOIGk8Vs4CRue0"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+</section>
+
+
+
+
+  </article>
 </div>
-
-
     </main><svg width="0" height="0" class="hidden">
   <symbol viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" id="facebook">
     <path d="M437 0H75C33.648 0 0 33.648 0 75v362c0 41.352 33.648 75 75 75h151V331h-60v-90h60v-61c0-49.629 40.371-90 90-90h91v90h-91v61h91l-15 90h-76v181h121c41.352 0 75-33.648 75-75V75c0-41.352-33.648-75-75-75zm0 0"></path>

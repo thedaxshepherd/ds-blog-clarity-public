@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thedaxshepherd.github.io/ds-blog-public/</loc>
-    <lastmod>2022-09-20T14:19:18-05:00</lastmod>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedaxshepherd.github.io/ds-blog-public/categories/</loc>
-    <lastmod>2022-09-20T14:19:18-05:00</lastmod>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/dax/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/daxstudio/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/defining-measures-in-dax-studio/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/categories/tools/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedaxshepherd.github.io/ds-blog-public/post/dbeaver-tool/</loc>
     <lastmod>2022-09-20T14:19:18-05:00</lastmod>
@@ -17,22 +35,19 @@
     <loc>https://thedaxshepherd.github.io/ds-blog-public/categories/new/</loc>
     <lastmod>2022-09-20T14:19:18-05:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/</loc>
-    <lastmod>2022-09-20T14:19:18-05:00</lastmod>
-  </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/</loc>
-    <lastmod>2022-09-20T14:19:18-05:00</lastmod>
-  </url><url>
     <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/git/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/hugo/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/website-hugo-blog-git/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/setting-up-hugo-blog-git-githubpages/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedaxshepherd.github.io/ds-blog-public/categories/website/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/website-hugo-blog-git/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedaxshepherd.github.io/ds-blog-public/archives/</loc>

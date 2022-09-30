@@ -5,7 +5,23 @@
     <link>https://thedaxshepherd.github.io/ds-blog-public/post/</link>
     <description>Recent content in Posts on The DAX Shepherd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Sep 2022 14:19:18 -0500</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/ds-blog-public/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/ds-blog-public/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Defining Measures in DAX Studio</title>
+      <link>https://thedaxshepherd.github.io/ds-blog-public/post/defining-measures-in-dax-studio/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedaxshepherd.github.io/ds-blog-public/post/defining-measures-in-dax-studio/</guid>
+      <description>
+        
+          
+            Some common issues that I run into when defining measures in DAX Studio.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>DBeaver Tool</title>
       <link>https://thedaxshepherd.github.io/ds-blog-public/post/dbeaver-tool/</link>
@@ -18,6 +34,22 @@
             Testing it out for Netsuite ODBC.
 https://dbeaver.io/
 This is very helpful for Netsuite.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Setting up the blog</title>
+      <link>https://thedaxshepherd.github.io/ds-blog-public/post/setting-up-hugo-blog-git-githubpages/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedaxshepherd.github.io/ds-blog-public/post/setting-up-hugo-blog-git-githubpages/</guid>
+      <description>
+        
+          
+            Steps I took to setup the blog on github pages
           
           
         
