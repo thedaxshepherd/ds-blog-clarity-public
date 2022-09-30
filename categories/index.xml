@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The DAX Shepherd</title>
-    <link>https://thedaxshepherd.github.io/ds-blog/categories/</link>
+    <link>https://thedaxshepherd.github.io/ds-blog-public/categories/</link>
     <description>Recent content in Categories on The DAX Shepherd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Sep 2022 14:19:18 -0500</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/ds-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 14:19:18 -0500</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/ds-blog-public/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

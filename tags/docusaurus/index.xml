@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>docusaurus on The DAX Shepherd</title>
-    <link>https://thedaxshepherd.github.io/ds-blog/tags/docusaurus/</link>
+    <link>https://thedaxshepherd.github.io/ds-blog-public/tags/docusaurus/</link>
     <description>Recent content in docusaurus on The DAX Shepherd</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://thedaxshepherd.github.io/ds-blog/tags/docusaurus/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://thedaxshepherd.github.io/ds-blog-public/tags/docusaurus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>https://thedaxshepherd.github.io/ds-blog/post/welcome/</link>
+      <link>https://thedaxshepherd.github.io/ds-blog-public/post/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.github.io/ds-blog/post/welcome/</guid>
+      <guid>https://thedaxshepherd.github.io/ds-blog-public/post/welcome/</guid>
       <description>
         
           

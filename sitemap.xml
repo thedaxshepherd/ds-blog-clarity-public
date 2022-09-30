@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/</loc>
     <lastmod>2022-09-20T14:19:18-05:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/categories/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/categories/</loc>
     <lastmod>2022-09-20T14:19:18-05:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/post/dbeaver-tool/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/dbeaver-tool/</loc>
     <lastmod>2022-09-20T14:19:18-05:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/tags/new/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/new/</loc>
     <lastmod>2022-09-20T14:19:18-05:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/categories/new/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/categories/new/</loc>
     <lastmod>2022-09-20T14:19:18-05:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/post/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/</loc>
     <lastmod>2022-09-20T14:19:18-05:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/tags/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/</loc>
     <lastmod>2022-09-20T14:19:18-05:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/tags/git/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/git/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/tags/hugo/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/hugo/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/post/website-hugo-blog-git/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/website-hugo-blog-git/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/categories/website/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/categories/website/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/archives/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/about.pt/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/about.pt/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/about/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/about/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/tags/docusaurus/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/docusaurus/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/tags/facebook/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/facebook/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/tags/hello/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/tags/hello/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/mywork/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/mywork/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/resources/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/resources/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/search/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/search/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/series/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/series/</loc>
   </url><url>
-    <loc>https://thedaxshepherd.github.io/ds-blog/post/welcome/</loc>
+    <loc>https://thedaxshepherd.github.io/ds-blog-public/post/welcome/</loc>
   </url>
 </urlset>

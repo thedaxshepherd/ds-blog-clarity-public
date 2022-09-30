@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The DAX Shepherd</title>
-    <link>https://thedaxshepherd.github.io/ds-blog/</link>
+    <link>https://thedaxshepherd.github.io/ds-blog-public/</link>
     <description>Recent content on The DAX Shepherd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Sep 2022 14:19:18 -0500</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/ds-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 14:19:18 -0500</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/ds-blog-public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DBeaver Tool</title>
-      <link>https://thedaxshepherd.github.io/ds-blog/post/dbeaver-tool/</link>
+      <link>https://thedaxshepherd.github.io/ds-blog-public/post/dbeaver-tool/</link>
       <pubDate>Tue, 20 Sep 2022 14:19:18 -0500</pubDate>
       
-      <guid>https://thedaxshepherd.github.io/ds-blog/post/dbeaver-tool/</guid>
+      <guid>https://thedaxshepherd.github.io/ds-blog-public/post/dbeaver-tool/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@ This is very helpful for Netsuite.
     
     <item>
       <title>Using Hugo and GitHub Pages for my blog</title>
-      <link>https://thedaxshepherd.github.io/ds-blog/post/website-hugo-blog-git/</link>
+      <link>https://thedaxshepherd.github.io/ds-blog-public/post/website-hugo-blog-git/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.github.io/ds-blog/post/website-hugo-blog-git/</guid>
+      <guid>https://thedaxshepherd.github.io/ds-blog-public/post/website-hugo-blog-git/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@ This is very helpful for Netsuite.
     
     <item>
       <title>Welcome</title>
-      <link>https://thedaxshepherd.github.io/ds-blog/post/welcome/</link>
+      <link>https://thedaxshepherd.github.io/ds-blog-public/post/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.github.io/ds-blog/post/welcome/</guid>
+      <guid>https://thedaxshepherd.github.io/ds-blog-public/post/welcome/</guid>
       <description>
         
           
